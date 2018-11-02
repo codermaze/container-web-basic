@@ -1,4 +1,4 @@
-FROM dockermaker/alpine-node:9.5.0
+FROM dockermaker/alpine-node:10.12.0
 #FROM mhart/alpine-node:8.9.4
 
 # Create app directory
