@@ -1,0 +1,14 @@
+{
+  "name": "container_web_basic",
+  "version": "1.0.0",
+  "description": "Basic web application to show container id",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Hari Mukkapati <hari@mukkapati.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.16.2"
+  }
+}
